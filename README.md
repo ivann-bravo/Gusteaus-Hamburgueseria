@@ -3,4 +3,4 @@ Sitio web para hamburguesería inspirada en la película Ratatouille. Trabajo pr
 </strong>
 
 ## Ingrese al sitio
-<p href="https://gusteaus-hamburgueseria.netlify.app/">Haciendo click acá</p>
+[Haciendo click acá](https://gusteaus-hamburgueseria.netlify.app/)
